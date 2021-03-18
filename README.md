@@ -1,6 +1,6 @@
 # CPF - Format Validation
 
-Code to validate a CPF format, using mask: **999.999.999-99**.
+Code to validate a CPF format, with regex, using mask: **999.999.999-99**.
 
 > Right format - returns *true*.
 
